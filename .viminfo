@@ -20,17 +20,19 @@
 # Registers:
 
 # File marks:
-'0  2  0  ~/branch1
-'1  2  0  ~/index.html
-'2  1  13  ~/index.html
-'3  16  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
-'4  1  0  ~/sampleapp/src/main/java/com/digital/project1/App.java
-'5  25  0  ~/sampleapp/pom.xml
+'0  4  4  ~/index.html
+'1  2  0  ~/branch1
+'2  2  0  ~/index.html
+'3  1  13  ~/index.html
+'4  16  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
+'5  1  0  ~/sampleapp/src/main/java/com/digital/project1/App.java
+'6  25  0  ~/sampleapp/pom.xml
 
 # Jumplist (newest first):
+-'  4  4  ~/index.html
+-'  2  0  ~/index.html
 -'  2  0  ~/branch1
 -'  1  0  ~/branch1
--'  2  0  ~/index.html
 -'  1  0  ~/index.html
 -'  16  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
 -'  1  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
@@ -102,8 +104,6 @@
 -'  1  0  ~/sampleapp/src/main/java/com/digital/project1/App.java
 -'  25  0  ~/sampleapp/pom.xml
 -'  1  0  ~/sampleapp/pom.xml
--'  2  0  ~/index.html
--'  1  0  ~/index.html
 -'  16  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
 -'  1  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
 -'  1  0  ~/sampleapp/src/main/java/com/digital/project1/App.java
@@ -125,23 +125,22 @@
 -'  25  0  ~/sampleapp/pom.xml
 -'  1  0  ~/sampleapp/pom.xml
 -'  16  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
--'  1  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
--'  1  0  ~/sampleapp/src/main/java/com/digital/project1/App.java
 
 # History of marks within files (newest to oldest):
+
+> ~/index.html
+	"	4	4
+	^	4	5
+	.	4	4
+	+	1	17
+	+	2	12
+	+	4	4
 
 > ~/branch1
 	"	2	0
 	^	2	0
 	.	2	0
 	+	2	0
-
-> ~/index.html
-	"	2	0
-	^	2	12
-	.	2	11
-	+	1	17
-	+	2	11
 
 > ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
 	"	16	0
