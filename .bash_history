@@ -180,3 +180,46 @@ vi index.html
 git branch
 git --online
 git log --oneline
+git branch
+git branch khirod
+git branch
+git branch branch1
+git checkout branch1
+git log --oneline
+vi branch1
+git add.
+git add .
+git commit -m "Branch1 1st commit"
+git checkout master
+git merge branch1
+cat index.html 
+git log --online
+git log --oneline
+git reflog
+git branch branch2
+gitcheckout branch2
+git checkout branch2
+vi branch2
+git add .
+git commit -m "Branch2 1st commit"
+git checkout master
+vi index.html 
+git add .
+git commit -m "NEw commit on master"
+git branch
+git merge branch2
+tree
+ls
+git branch 
+git reflog
+ls
+clear
+touch ./hell0.txt
+ls -lrt
+rm hell0.txt 
+ls
+touch .hello.txt
+ls
+ls -la
+clear
+pwd
