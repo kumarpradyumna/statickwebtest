@@ -132,3 +132,51 @@ git show
 git config --global user.name "prady@devops"
 git log
 exit
+git HEAD
+git show HEAD
+git log --oneline
+vi index.html 
+git commit -m "new line added"
+git log --oneline
+git add index.html 
+git commit -m "new line added"
+git log --oneline
+git show HEAD
+git HEAD~2
+clear
+git branch dev
+ls -lrt
+git branch
+git checkout dev
+git branch
+vi index.html 
+git add index.html 
+git commit -m "new line added and devops"
+git log --oneline
+git branch
+git checkout master
+vi index.html 
+ls
+git checkout dev
+cat > contact.html
+git status
+cat > contact.html
+git status
+ls -lrt
+git branch
+git add .
+git commit -m "new contact file created"
+git branch
+git checkout master
+ls
+git reflog
+git branch
+git status
+git add .
+git commit -m "system files"
+ls
+git merge dev
+vi index.html 
+git branch
+git --online
+git log --oneline

@@ -20,14 +20,17 @@
 # Registers:
 
 # File marks:
-'0  2  11  ~/index.html
-'1  1  13  ~/index.html
-'2  16  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
-'3  1  0  ~/sampleapp/src/main/java/com/digital/project1/App.java
-'4  25  0  ~/sampleapp/pom.xml
+'0  2  0  ~/branch1
+'1  2  0  ~/index.html
+'2  1  13  ~/index.html
+'3  16  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
+'4  1  0  ~/sampleapp/src/main/java/com/digital/project1/App.java
+'5  25  0  ~/sampleapp/pom.xml
 
 # Jumplist (newest first):
--'  2  11  ~/index.html
+-'  2  0  ~/branch1
+-'  1  0  ~/branch1
+-'  2  0  ~/index.html
 -'  1  0  ~/index.html
 -'  16  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
 -'  1  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
@@ -49,11 +52,92 @@
 -'  1  0  ~/sampleapp/src/main/java/com/digital/project1/App.java
 -'  25  0  ~/sampleapp/pom.xml
 -'  1  0  ~/sampleapp/pom.xml
+-'  16  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
+-'  1  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
+-'  1  0  ~/sampleapp/src/main/java/com/digital/project1/App.java
+-'  25  0  ~/sampleapp/pom.xml
+-'  1  0  ~/sampleapp/pom.xml
+-'  16  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
+-'  1  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
+-'  1  0  ~/sampleapp/src/main/java/com/digital/project1/App.java
+-'  25  0  ~/sampleapp/pom.xml
+-'  1  0  ~/sampleapp/pom.xml
+-'  16  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
+-'  1  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
+-'  1  0  ~/sampleapp/src/main/java/com/digital/project1/App.java
+-'  25  0  ~/sampleapp/pom.xml
+-'  1  0  ~/sampleapp/pom.xml
+-'  16  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
+-'  1  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
+-'  1  0  ~/sampleapp/src/main/java/com/digital/project1/App.java
+-'  25  0  ~/sampleapp/pom.xml
+-'  1  0  ~/sampleapp/pom.xml
+-'  16  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
+-'  1  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
+-'  1  0  ~/sampleapp/src/main/java/com/digital/project1/App.java
+-'  25  0  ~/sampleapp/pom.xml
+-'  1  0  ~/sampleapp/pom.xml
+-'  16  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
+-'  1  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
+-'  1  0  ~/sampleapp/src/main/java/com/digital/project1/App.java
+-'  25  0  ~/sampleapp/pom.xml
+-'  1  0  ~/sampleapp/pom.xml
+-'  16  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
+-'  1  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
+-'  1  0  ~/sampleapp/src/main/java/com/digital/project1/App.java
+-'  25  0  ~/sampleapp/pom.xml
+-'  1  0  ~/sampleapp/pom.xml
+-'  16  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
+-'  1  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
+-'  1  0  ~/sampleapp/src/main/java/com/digital/project1/App.java
+-'  25  0  ~/sampleapp/pom.xml
+-'  1  0  ~/sampleapp/pom.xml
+-'  16  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
+-'  1  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
+-'  1  0  ~/sampleapp/src/main/java/com/digital/project1/App.java
+-'  25  0  ~/sampleapp/pom.xml
+-'  1  0  ~/sampleapp/pom.xml
+-'  16  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
+-'  1  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
+-'  1  0  ~/sampleapp/src/main/java/com/digital/project1/App.java
+-'  25  0  ~/sampleapp/pom.xml
+-'  1  0  ~/sampleapp/pom.xml
+-'  2  0  ~/index.html
+-'  1  0  ~/index.html
+-'  16  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
+-'  1  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
+-'  1  0  ~/sampleapp/src/main/java/com/digital/project1/App.java
+-'  25  0  ~/sampleapp/pom.xml
+-'  1  0  ~/sampleapp/pom.xml
+-'  16  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
+-'  1  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
+-'  1  0  ~/sampleapp/src/main/java/com/digital/project1/App.java
+-'  25  0  ~/sampleapp/pom.xml
+-'  1  0  ~/sampleapp/pom.xml
+-'  16  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
+-'  1  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
+-'  1  0  ~/sampleapp/src/main/java/com/digital/project1/App.java
+-'  25  0  ~/sampleapp/pom.xml
+-'  1  0  ~/sampleapp/pom.xml
+-'  16  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
+-'  1  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
+-'  1  0  ~/sampleapp/src/main/java/com/digital/project1/App.java
+-'  25  0  ~/sampleapp/pom.xml
+-'  1  0  ~/sampleapp/pom.xml
+-'  16  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
+-'  1  0  ~/sampleapp/src/test/java/com/digital/project1/AppTest.java
+-'  1  0  ~/sampleapp/src/main/java/com/digital/project1/App.java
 
 # History of marks within files (newest to oldest):
 
+> ~/branch1
+	"	2	0
+	^	2	0
+	.	2	0
+	+	2	0
+
 > ~/index.html
-	"	2	11
+	"	2	0
 	^	2	12
 	.	2	11
 	+	1	17
